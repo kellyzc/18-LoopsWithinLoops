@@ -172,7 +172,6 @@ def decreasing_exclamation_marks(m, n):
         print()
 
 
-
 def run_test_alternating_brackets():
     """ Tests the    alternating_brackets    function. """
     print()
